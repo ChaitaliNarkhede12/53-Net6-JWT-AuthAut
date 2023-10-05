@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "tfUndyd17wBU21iIH3IPhDVtFmaCO0kVehkIoZayUl4=",
+  "Source": "Net6-JwtAuthWithCustomMiddleware",
+  "BasePath": "_content/Net6-JwtAuthWithCustomMiddleware",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
